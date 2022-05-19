@@ -1,2 +1,2 @@
-# anisotropic_birefringence_patches
+# AnisotropicBirefringence_patches
 Results found in Bortolami et al. (2022)
