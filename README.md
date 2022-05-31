@@ -11,7 +11,7 @@ The CB maps can be read with the healpy routine `healpy.fitsfunc.read_map`.
 
 The CB spectra in terms of bandpowers can be found in the folder CB_spectra. The names of the files follow the structure `a<X>_<RELEASE>_spectra_data_<COMPSEP>.fits`, where:
 * `<X>` = a, T, E, B
-* `<RELEASE>` = PR3, npipe
+* `<RELEASE>` = PR3, NPIPE
 * `<COMPSEP>` = commander, nilc, sevem, smica
 
 The CB spectra can be read with the healpy routine `healpy.fitsfunc.read_cl`. The loaded array will have the multipoles, spectra value and error in the first, second and thirs column, respectively.
